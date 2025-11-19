@@ -18,7 +18,7 @@ Scripts use the `ArcPy` library and require the Spatial Analyst extension.
 - Suitable-habitat richness for the all-mammal group
 
 `Hotspot_delineation.py` identifies matrix-based richness hotspots using:
-- Percentile-based richness thresholds (2.5%, 5%, and 10%)
+- Percentile-based richness thresholds
 - Iterative coverage matching to reach target hotspot area
 - Contiguity filtering (minimum area = 10 km²)
 
