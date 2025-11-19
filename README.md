@@ -23,9 +23,9 @@ Used for:
 
 `hotspot_template.py`
 Identifies matrix-based richness hotspots using:
-- percentile-based richness thresholds (2.5%, 5%, 10%)
-- iterative coverage matching to reach target hotspot area
-- contiguity filtering (minimum area = 10 km²)
+- Percentile-based richness thresholds (2.5%, 5%, 10%)
+- Iterative coverage matching to reach target hotspot area
+- Contiguity filtering (minimum area = 10 km²)
 
 Users can reproduce each hotspot definition by adjusting the **USER INPUTS** section at the top of the script.
 
