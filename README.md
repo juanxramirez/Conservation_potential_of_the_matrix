@@ -6,7 +6,7 @@ This repository includes `Python` code used to reproduce the analyses for the ma
 
 _by J.P. Ramírez-Delgado, M. Di Marco, C.J. Johnson, J.E.M. Watson, L. de Assis Barros, and O. Venter_
 
-**Manuscript in preparation.**
+Manuscript in preparation
 
 ## Requirements
 Users should have `ArcGIS Pro` version **3.4.0** or higher.  
