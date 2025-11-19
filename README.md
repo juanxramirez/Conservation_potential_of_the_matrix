@@ -24,8 +24,6 @@ Identifies matrix-based richness hotspots using:
 - Iterative coverage matching to reach target hotspot area
 - Contiguity filtering (minimum area = 10 km²)
 
-Users can reproduce each hotspot definition by adjusting the **USER INPUTS** section at the top of the script.
-
 ## Data
 This repository includes the species richness rasters required to run `hotspot_template.py`.
 
