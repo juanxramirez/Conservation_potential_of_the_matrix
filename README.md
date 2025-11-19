@@ -8,13 +8,10 @@ _by J.P. Ramírez-Delgado, M. Di Marco, C.J. Johnson, J.E.M. Watson, L. de Assis
 
 **Manuscript in preparation.**
 
----
-
 ## Requirements
+
 Users should have `ArcGIS Pro` version **3.4.0** or higher.  
 Scripts use the `ArcPy` library and require the Spatial Analyst extension.
-
----
 
 ## Code
 
@@ -26,8 +23,6 @@ Used for:
 - mammals with threatened status  
 - suitable-habitat richness for the all-mammal group
 
----
-
 ### `hotspot_template.py`
 Identifies matrix-based richness hotspots using:
 - percentile-based richness thresholds (2.5%, 5%, 10%)
@@ -35,8 +30,6 @@ Identifies matrix-based richness hotspots using:
 - contiguity filtering (minimum area = 10 km²)
 
 Users can reproduce each hotspot definition by adjusting the **USER INPUTS** section at the top of the script.
-
----
 
 ## Data
 
