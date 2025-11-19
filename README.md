@@ -40,9 +40,8 @@ Users can reproduce each hotspot definition by adjusting the **USER INPUTS** sec
 
 ## Data
 
-This repository includes the **species richness rasters** required to run  
-`hotspot_template.py`.
+This repository includes the **species richness rasters** required to run `hotspot_template.py`.
 
-AOH-derived species rasters and IUCN Red List range maps used to generate species richness maps (i.e., the inputs for `compute_species_richness.py`) are **not included** because of size and licensing restrictions. Please refer to the Methods and Materials section of the manuscript accompanying this repository for full details on how these datasets were obtained and processed.
+AOH-derived species rasters and IUCN Red List range maps used to generate species richness maps (i.e., the inputs for `compute_species_richness.py`) are **not included** because of size and licensing restrictions. Please refer to the Materials and Methods section of the manuscript accompanying this repository for full details on how these datasets were obtained and processed.
 
-Other datasets used in the study—such as the global Human Footprint and spatial data on Protected Areas (PAs) and Other Effective Area-Based Conservation Measures (OECMs)—can be obtained from their original sources, as described in the Methods section of the manuscript.
+Other datasets used in the study—such as the global Human Footprint and spatial data on Protected Areas (PAs) and Other Effective Area-Based Conservation Measures (OECMs)—can be obtained from their original sources, as described in the Materials and Methods section of the manuscript.
