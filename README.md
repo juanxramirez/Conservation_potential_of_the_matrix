@@ -8,7 +8,7 @@ _by J.P. Ramírez-Delgado, M. Di Marco, C.J. Johnson, J.E.M. Watson, L. de Assis
 
 ## Requirements
 Users should have `ArcGIS Pro` version 3.4.0 or higher.  
-Scripts use the `ArcPy` library and require the "Spatial Analyst" extension.
+Scripts use the `ArcPy` library and require the ``Spatial Analyst`` extension.
 
 ## Code
 `Compute_species_richness.py` computes global species richness maps by summing binary habitat rasters for each species. Used for:
