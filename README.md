@@ -11,7 +11,7 @@ Users should have `ArcGIS Pro` version **3.4.0** or higher.
 Scripts use the `ArcPy` library and require the Spatial Analyst extension.
 
 ## Code
-`compute_species_richness.py`
+`Compute_species_richness.py`
 Computes global species richness maps by summing binary habitat rasters for each species.  
 Used for:
 - All mammals  
@@ -19,7 +19,7 @@ Used for:
 - Mammals with threatened status  
 - Suitable-habitat richness for the all-mammal group
 
-`hotspot_template.py`
+`Hotspot_delineation.py`
 Identifies matrix-based richness hotspots using:
 - Percentile-based richness thresholds (2.5%, 5%, 10%)
 - Iterative coverage matching to reach target hotspot area
