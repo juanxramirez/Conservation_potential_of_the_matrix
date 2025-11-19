@@ -10,17 +10,11 @@ _by J.P. Ramírez-Delgado, M. Di Marco, C.J. Johnson, J.E.M. Watson, L. de Assis
 
 In this study, we quantify species richness within matrix areas for more than 5,400 terrestrial mammals using global Area of Habitat (AOH) data, delineate matrix-based richness hotspots (for all mammals, mammals with declining population trends, and mammals with threatened status), and evaluate the conservation potential of these areas relative to human pressure and conservation coverage.
 
----
-
 ## Requirements
-
 Users should have `ArcGIS Pro` version **3.4.0** or higher.  
 Scripts use the `ArcPy` library and require the Spatial Analyst extension.
 
----
-
 ## Code
-
 ### `compute_species_richness.py`
 Computes global species richness maps by summing binary habitat rasters for each species.  
 Used for:
@@ -28,8 +22,6 @@ Used for:
 - mammals with declining population trends  
 - mammals with threatened status  
 - suitable-habitat richness for the all-mammal group
-
----
 
 ### `hotspot_template.py`
 Identifies matrix-based richness hotspots using:
@@ -39,10 +31,7 @@ Identifies matrix-based richness hotspots using:
 
 Users can reproduce each hotspot definition by adjusting the **USER INPUTS** section at the top of the script.
 
----
-
 ## Data
-
 This repository only includes the **species richness rasters** required to run  
 `hotspot_template.py`.
 
