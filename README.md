@@ -27,6 +27,6 @@ Identifies matrix-based richness hotspots using:
 ## Data
 This repository includes the species richness rasters required to run `hotspot_template.py`.
 
-AOH-derived species rasters and IUCN Red List range maps used to generate species richness maps (i.e., the inputs for `compute_species_richness.py`) are not included because of size and licensing restrictions. Please refer to the Materials and Methods section of the manuscript accompanying this repository for full details on how these datasets were obtained and processed.
+AOH-derived species rasters and IUCN Red List range maps used to delineate the extent of suitable habitat and matrix areas for each species (i.e., the inputs for `compute_species_richness.py`) are not included because of size and licensing restrictions. Please refer to the Materials and Methods section of the manuscript accompanying this repository for full details on how these datasets were obtained, processed, and used in the analysis.
 
 Other datasets used in the study—such as the global Human Footprint and spatial data on Protected Areas (PAs) and Other Effective Area-Based Conservation Measures (OECMs)—can be obtained from their original sources, as described in the Materials and Methods section of the manuscript.
