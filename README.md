@@ -20,6 +20,7 @@ This script identifies matrix-based richness hotspots using:
 
 ### Data
 Derived species richness rasters required to run `hotspot_delineation.py` are publicly available at:
+<a href="https://doi.org/10.5281/zenodo.17664172"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17664172.svg" alt="DOI"></a>
 
 These include:
 - `species_richness_within_species-rich-matrix_areas_all.tif`  
