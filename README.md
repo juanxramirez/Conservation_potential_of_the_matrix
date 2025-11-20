@@ -23,7 +23,7 @@ Scripts use the `ArcPy` library and require the `Spatial Analyst` extension.
 - Contiguity filtering (minimum area = 10 km²)
 
 ## Data
-This repository includes the species richness rasters required to run `Hotspot_delineation.py`.
+This repository includes the species richness rasters required to run `Hotspot_delineation.py`
 
 AOH-derived species rasters and IUCN Red List range maps used to delineate the extent of suitable habitat and matrix areas for each species (i.e., the inputs for `compute_species_richness.py`) are not included because of size and licensing restrictions. Please refer to the Materials and Methods section of the manuscript accompanying this repository for full details on how these datasets were obtained, processed, and used in the analysis.
 
