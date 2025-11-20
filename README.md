@@ -13,13 +13,12 @@ The script uses the `ArcPy` library and requires the `Spatial Analyst` extension
 
 ### Code
 `Hotspot_delineation.py`: This script identifies matrix-based richness hotspots using:
-- percentile-based richness thresholds  
-- iterative coverage matching  
+- richness thresholds initialized using percentiles
+- iterative threshold adjustment to match hotspot area targets (2.5%, 5%, 10%)
 - contiguity filtering (minimum area = 10 km²)  
 
 ### Data
 Derived species richness rasters required to run `hotspot_delineation.py` are publicly available at:
-
 
 These include:
 - `species_richness_within_species-rich-matrix_areas_all.tif`  
