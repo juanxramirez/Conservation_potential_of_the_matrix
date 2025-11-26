@@ -1,7 +1,7 @@
 ## Conservation_potential_of_the_matrix
 This repository includes `Python` code used to reproduce the main analyses for the manuscript:
 
-**"Matrix areas reveal conservation opportunities for over half of the world’s terrestrial mammals"**
+**"Landscapes beyond suitable habitat reveal conservation opportunities for over half of the world’s terrestrial mammals"**
 
 _by J.P. Ramírez-Delgado, M. Di Marco, C.J. Johnson, J.E.M. Watson, L. de Assis Barros, and O. Venter_
 
